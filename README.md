@@ -1,4 +1,4 @@
-# What is Neon?
+## What is Neon?
 
 [Neon](https://neon.tech/) is Serverless Postgres built for the cloud. Neon separates compute and storage to offer modern developer features such as autoscaling, database branching, scale-to-zero, and more.
 
